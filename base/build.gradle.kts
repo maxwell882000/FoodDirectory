@@ -4,7 +4,7 @@ plugins {
 }
 
 android{
-    namespace = "com.elbehiry.delish.base"
+    namespace = "com.elbehiry.food_directory.base"
 }
 
 dependencies {

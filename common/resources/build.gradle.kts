@@ -3,5 +3,5 @@ plugins {
 }
 
 android {
-    namespace = "app.delish.common.resources"
+    namespace = "app.food_directory.common.resources"
 }

@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "app.delish.search"
+    namespace = "app.food_directory.search"
 
     buildFeatures {
         compose = true

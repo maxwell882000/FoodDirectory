@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "app.delish.domain"
+    namespace = "app.food_directory.domain"
 }
 
 dependencies {

@@ -28,9 +28,9 @@ android {
     defaultConfig {
         minSdk = libs.versions.min.sdk.version.get().toInt()
         targetSdk = libs.versions.target.sdk.version.get().toInt()
-        namespace = "com.elbehiry.delish"
+        namespace = "com.elbehiry.food_directory"
 
-        applicationId = "com.elbehiry.delish"
+        applicationId = "com.elbehiry.food_directory"
         versionCode = appVersionCode
         versionName = "0.1.0"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"

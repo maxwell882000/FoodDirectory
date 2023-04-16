@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "app.delish.onboarding"
+    namespace = "app.food_directory.onboarding"
 
     buildFeatures {
         compose = true

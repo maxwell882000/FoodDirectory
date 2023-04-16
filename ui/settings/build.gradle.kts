@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "app.delish.settings"
+    namespace = "app.food_directory.settings"
 
     buildFeatures {
         compose = true

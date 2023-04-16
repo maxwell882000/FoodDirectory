@@ -21,7 +21,7 @@ plugins {
 }
 
 android {
-    namespace = "app.delish.data"
+    namespace = "app.food_directory.data"
 }
 
 ksp {
