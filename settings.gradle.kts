@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = ("Delish")
+rootProject.name = ("FoodDirectory")
 
 enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 
